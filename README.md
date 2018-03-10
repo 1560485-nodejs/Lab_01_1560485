@@ -1,10 +1,10 @@
 __Lap_01_1560485__
-_1560485_
-_Phạm Khánh tài_
+__1560485__
+__Phạm Khánh tài__
 # 15ck4
 # pktai.IoT@gmail.com
 # 01697892458
-! https://www.facebook.com/t.phkh
+ # ! https://www.facebook.com/t.phkh
 
 __THỜI KHÓA BIỂU__
 ___
@@ -19,4 +19,4 @@ ___
 THỨ 6: TU TUONG HCM, PLDC
 ___
 THỨ 7: TH LINUX, TH LTWEB2
-
+___
