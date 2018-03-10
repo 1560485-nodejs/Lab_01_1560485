@@ -5,7 +5,9 @@ _Phạm Khánh tài_
 # pktai.IoT@gmail.com
 # 01697892458
 ! https://www.facebook.com/t.phkh
+
 __THỜI KHÓA BIỂU__
----BUỔI         THỨ 2           THỨ 3           THỨ 4         THỨ 5         THỨ 6       THỨ 7
+
+___BUỔI         THỨ 2           THỨ 3           THỨ 4         THỨ 5         THỨ 6       THỨ 7
 -------SÁNG -------------------------TH_TKHTM--------LINUX-----------AV1-------------PLDC-------------TH LINUX
 -----------------------------------TH_PTUDCSDL2         KTHTM----------
